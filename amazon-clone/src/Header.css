@@ -58,6 +58,7 @@
 }
 
 .header_optionBasket {
+  margin-top: 5px;
   display: flex;
   align-items: center;
   color: white;

@@ -15,6 +15,7 @@ function Home() {
         <div className="home_row">
           {" "}
           <Product
+            id={132}
             title="Mouse"
             price={29.99}
             image="https://images-na.ssl-images-amazon.com/images/I/31ACyIDOCXL.jpg"
