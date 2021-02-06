@@ -13,6 +13,8 @@ function App() {
 
   // This is like an IF statement in React
   useEffect(() => {
+    document.title = "Amazon Clone by MecsAfonso";
+
     auth.onAuthStateChanged((authUser) => {
       console.log("The user is ", authUser);
 
